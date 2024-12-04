@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="800e575b-8e2f-4cb7-8784-473a4a8855b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/.env.example" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/lib/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/lib/data.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/query/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/query/route.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/seed/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/seed/route.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
