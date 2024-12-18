@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="800e575b-8e2f-4cb7-8784-473a4a8855b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/lib/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/lib/data.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/latest-invoices.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/latest-invoices.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/revenue-chart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/revenue-chart.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/invoices" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Fiddleschool/fiddleschool/fiddleschool" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="D:\DT360\NextJS Learn\NextJS-Learn\nextjs-dashboard\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -47,6 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733196341401</updated>
       <workItem from="1733196342515" duration="7791000" />
+      <workItem from="1734372874819" duration="77000" />
     </task>
     <servers />
   </component>
@@ -54,6 +51,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1734372950414">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1734372950414" />
     <state x="479" y="125" width="577" height="566" key="find.popup" timestamp="1733300269192">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
