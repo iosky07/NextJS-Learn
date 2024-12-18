@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="800e575b-8e2f-4cb7-8784-473a4a8855b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="800e575b-8e2f-4cb7-8784-473a4a8855b9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,13 +21,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Fiddleschool/fiddleschool/fiddleschool" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/nextjs-dashboard/app/dashboard" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="D:\DT360\NextJS Learn\NextJS-Learn\nextjs-dashboard\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DT360\NextJS Learn\NextJS-Learn\nextjs-dashboard\app\dashboard" />
       <recent name="D:\DT360\NextJS Learn\NextJS-Learn\nextjs-dashboard\app\dashboard\invoices" />
       <recent name="D:\DT360\NextJS Learn\NextJS-Learn\nextjs-dashboard\app\dashboard\customers" />
     </key>
@@ -44,6 +43,7 @@
       <updated>1733196341401</updated>
       <workItem from="1733196342515" duration="7791000" />
       <workItem from="1734372874819" duration="77000" />
+      <workItem from="1734529715295" duration="396000" />
     </task>
     <servers />
   </component>
