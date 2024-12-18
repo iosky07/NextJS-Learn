@@ -8,7 +8,6 @@ import { RevenueChartSkeleton } from '@/app/ui/skeletons';
 
 //
 export default async function Page() {
-    const revenue = await fetchRevenue();
     const latestInvoices = await fetchLatestInvoices();
     const {
         numberOfInvoices,
