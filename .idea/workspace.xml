@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="800e575b-8e2f-4cb7-8784-473a4a8855b9" name="Default Changelist" comment="" />
+    <list default="true" id="800e575b-8e2f-4cb7-8784-473a4a8855b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/loading.tsx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +45,7 @@
       <updated>1733196341401</updated>
       <workItem from="1733196342515" duration="7791000" />
       <workItem from="1734372874819" duration="77000" />
-      <workItem from="1734529715295" duration="396000" />
+      <workItem from="1734529715295" duration="762000" />
     </task>
     <servers />
   </component>
