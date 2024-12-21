@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="800e575b-8e2f-4cb7-8784-473a4a8855b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/invoices/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/invoices/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/search.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/search.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +47,7 @@
       <workItem from="1734372874819" duration="77000" />
       <workItem from="1734529715295" duration="9328000" />
       <workItem from="1734730202749" duration="1934000" />
-      <workItem from="1734741493592" duration="1250000" />
+      <workItem from="1734741493592" duration="1843000" />
     </task>
     <servers />
   </component>
